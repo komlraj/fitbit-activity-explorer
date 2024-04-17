@@ -1,0 +1,29 @@
+.sleep-chart {
+    margin-top: 20px;
+    width: 500px;
+    height: 300px;
+    border: 1px solid #ddd;
+  }
+  
+  .sleep-chart rect {
+    fill: rgb(184, 85, 117);
+  }
+  
+  .sleep-chart rect:hover {
+    fill: rgb(182, 53, 94);
+  }
+  
+  .sleep-chart .axis path,
+  .sleep-chart .axis line {
+    fill: none;
+    stroke: #000;
+  }
+  
+  .sleep-chart .axis text {
+    font-size: 12px;
+  }
+  
+  .sleep-chart .axis .domain {
+    display: none; /* Hide axis line */
+  }
+  

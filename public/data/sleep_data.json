@@ -1,0 +1,6 @@
+[
+  { "date": "2023-04-01", "minutesAsleep": 420, "minutesAwake": 20 },
+  { "date": "2023-04-02", "minutesAsleep": 390, "minutesAwake": 30 },
+  { "date": "2024-07-07", "minutesAsleep": 620, "minutesAwake": 55 },
+  { "date": "2024-08-12", "minutesAsleep": 250, "minutesAwake": 10 }
+]

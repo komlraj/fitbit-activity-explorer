@@ -1,0 +1,29 @@
+.activity-chart {
+    margin-top: 20px;
+    width: 500px;
+    height: 300px;
+    border: 1px solid #ddd;
+  }
+  
+  .activity-chart rect {
+    fill: steelblue;
+  }
+  
+  .activity-chart rect:hover {
+    fill: #4682b4;
+  }
+  
+  .activity-chart .axis path,
+  .activity-chart .axis line {
+    fill: none;
+    stroke: #000;
+  }
+  
+  .activity-chart .axis text {
+    font-size: 12px;
+  }
+  
+  .activity-chart .axis .domain {
+    display: none; 
+  }
+  

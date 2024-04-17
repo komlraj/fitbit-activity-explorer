@@ -1,0 +1,13 @@
+.data-importer {
+    text-align: center;
+  }
+  
+  .data-importer h1 {
+    margin-bottom: 20px;
+  }
+  
+  .charts-container {
+    display: flex;
+    justify-content: center;
+  }
+  
